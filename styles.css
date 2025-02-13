@@ -7,7 +7,7 @@ body {
 .container {
     max-width: 400px;
     margin: auto;
-    background-color:lightblue;
+    background-color:rgb(157, 179, 153);
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 10px;
@@ -30,6 +30,6 @@ ul {
 }
 
 .container button:hover{
-    background-color: rgb(188, 195, 198);
+    background-color: rgb(203, 220, 203);
     color: black;
 }
